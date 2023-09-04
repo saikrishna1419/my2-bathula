@@ -15,4 +15,6 @@ My favorite vacation spot is **Hoskote**, located in Bangalore, Karnataka state,
 #### A list of food dishes can be found at my favorite place.
 * Goat Biryani.
 * Chicken Kabob.
-* Goat paya.
+* Goat Paya.
+
+[Interesting facts about Sai krishna](Mystats.md)
