@@ -12,6 +12,7 @@ Activities I do at my favorite vacation spot.
 2. Bike ride rod ghat roads.
 3. Photoshots.
 
-
-
-    
+A list of food dishes can be found at my favorite place.
+* Goat Biryani.
+* Chicken Kabob.
+* Goat paya.
