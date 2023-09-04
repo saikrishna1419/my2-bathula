@@ -7,12 +7,12 @@ My favorite vacation spot is **Hoskote**, located in Bangalore, Karnataka state,
 
 ***
 ### Activites and Food Dishes
-Activities I do at my favorite vacation spot.
+#### Activities I do at my favorite vacation spot.
 1. Enjoy the view.
 2. Bike ride rod ghat roads.
 3. Photoshots.
 
-A list of food dishes can be found at my favorite place.
+#### A list of food dishes can be found at my favorite place.
 * Goat Biryani.
 * Chicken Kabob.
 * Goat paya.
