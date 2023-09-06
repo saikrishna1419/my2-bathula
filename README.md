@@ -32,9 +32,11 @@ Here are some sports I recommend trying. Each of these sports offers unique bene
 
 ---
 ## Pithy Quotes
-> "Imagination is more important than knowledge." - *Albert Einstein*<br>
-> "The present is theirs; the future, for which I really worked, is mine." - *Nikola Tesla*<br>
-> "I do not think you can name many great inventions that have been made by married men." - *Nikola Tesla*
+> "Imagination is more important than knowledge." - ***Albert Einstein***<br>
+
+> "The present is theirs; the future, for which I really worked, is mine." - ***Nikola Tesla***<br>
+
+> "I do not think you can name many great inventions that have been made by married men." - ***Nikola Tesla***
 
 ---
 >How to create a responsive menu(Hamburger menu)
